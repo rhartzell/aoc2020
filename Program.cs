@@ -7,7 +7,9 @@ namespace aoc2020
         static void Main(string[] args)
         {
             //DayOne.RunPartOne();
-            DayOne.RunPartTwo();
+            //DayOne.RunPartTwo();
+            //DayTwo.RunPartOne();
+            DayTwo.RunPartTwo();
         }
     }
 }

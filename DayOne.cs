@@ -51,11 +51,12 @@ namespace aoc2020
                             Console.WriteLine($"This is it!!! {product}");
                             break;
                         }
-                    }
-
-                }
+                        if (product != 0) break;
+                    } // end c
+                    if (product != 0) break;
+                } // end b
                 if (product != 0) break;
-            }
+            } // end a 
         }
     }
 }
