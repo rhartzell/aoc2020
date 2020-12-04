@@ -11,7 +11,9 @@ namespace aoc2020
             //DayTwo.RunPartOne();
             //DayTwo.RunPartTwo();
             //DayThree.RunPartOne();
-            DayThree.RunPartTwo();
+            //DayThree.RunPartTwo();
+            //DayFour.RunPartOne();
+            DayFour.RunPartTwo();
         }
     }
 }
